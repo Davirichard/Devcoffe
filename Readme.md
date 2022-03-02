@@ -13,8 +13,6 @@ O site foi realizado na proposta de criar um projeto simples e interativo. O obj
 
 A seguintes ferramentas e tecnologias foram utilizadas nesse projeto:
 
-JavaScript
-
 HTML5
 
 CSS3
